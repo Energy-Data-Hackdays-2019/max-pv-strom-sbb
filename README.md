@@ -7,12 +7,20 @@ For a more detailed assessment and visualization of potential "Zussammenschlüss
 # General Potential Analysis
 PV-potential over all SBB-areas:
 
+153 GWh (LCOE<10 Rp/kWh) --> 0.3% of total swiss electricity consumtion 
+
+270 GWh (LCOE<15 Rp/kWh) --> 0.5% of total swiss electricity consumtion
+
 CO2 reduction potential over all SBB-areas:
 
-Figure: Total electricity generation potential from PV: 130 GWh (LCOE<10 Rp/kWh), 270 GWh (LCOE<15 Rp/kWh). Ranking of Gemeinde by total potential area for PV installation (roof area that intersects and within the parcel)
+~7000 tons of CO2 reduction (LCOE<10 Rp/kWh)
+
+~12000 tons of CO2 reduction (LCOE<15 Rp/kWh)
+
+Figure: Total electricity generation potential from PV: 130 GWh (LCOE<10 Rp/kWh), 270 GWh (LCOE<15 Rp/kWh). Ranking of Gemeinde by total potential area for PV installation (roof area that intersects and within the parcel):
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/gemeinde-pv-area.png)
 
-Figure: Potential vs. PV LCOE for each parcel. With Gemeinde names where the parcel is located in. Parcels  on on top left corner (high potential, low LCOE) shall be looked into.
+Figure: Potential vs. PV LCOE for each parcel. With Gemeinde names where the parcel is located in. Parcels  on on top left corner (high potential, low LCOE) shall be looked into:
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/potential-gestehungskosten.png)
 
 # Assessment and Visualization of parcels and potential "Zusammenschlüsse zum Eigenverbrauch (ZEV)"
