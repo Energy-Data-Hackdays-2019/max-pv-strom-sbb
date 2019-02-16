@@ -37,3 +37,5 @@ The main task of the data team was the embedding of the SBB data into the swiss 
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/modell.png)
 
 Finally, we visualized the potential assessment and all the information of interest for each parcel on a interactive map in the swiss energy planning app (see figure "Swiss Energy Planning").
+
+![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/sep.png)
