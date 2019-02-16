@@ -9,6 +9,9 @@ PV-potential over all SBB-areas:
 
 CO2 reduction potential over all SBB-areas:
 
+![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/gemeinde-pv-area.png)
+
+![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/potential-gestehungskosten.png)
 
 # Assessment and Visualization of parcels and potential "Zusammenschlüsse zum Eigenverbrauch (ZEV)"
 When you want to find ZEV you need to consider the geographic locations of the SBB-parcels, most importantly if two parcels are linked to each other through parcels that belong all to the same owner. In the case of SBB the ownership of train-track-parcels is especially interesting as they link different parcels over a large range (virtually over the whole country), which allows potentially for huge ZEV (see figure "SBB Areale & Möglichkeiten ZEV"). However, it is not clear yet if the connection across train tracks is physically feasible and makes economically sense.
