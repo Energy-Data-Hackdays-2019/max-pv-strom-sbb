@@ -6,15 +6,16 @@ For a more detailed assessment and visualization of potential "Zussammenschlüss
 
 # General Potential Analysis
 PV-potential over all SBB-areas:
+
 CO2 reduction potential over all SBB-areas:
 
 
-# Assessment and Visualization of parcels and potential "Zusammenschlüsse"
-When you want to find "Zusammenschlüsse" you need to consider the geographic locations of the SBB-parcels, most importantly if two parcels are linked to each other through parcels that belong all to the same owner. In the case of SBB the ownership of train-track-parcels is especially interesting as they link different parcels over a large range (possibly over the whole country), which allows potentially for huge "Zusammenschlüsse" (see figure "SBB Areale & Möglichkeiten Eigenverbrauch-Zusammenschlüsse"). However, it is not clear yet if the connection across train tracks is physically feasible and makes economically sense.
+# Assessment and Visualization of parcels and potential "Zusammenschlüsse zum Eigenverbrauch (ZEV)"
+When you want to find ZEV you need to consider the geographic locations of the SBB-parcels, most importantly if two parcels are linked to each other through parcels that belong all to the same owner. In the case of SBB the ownership of train-track-parcels is especially interesting as they link different parcels over a large range (virtually over the whole country), which allows potentially for huge ZEV (see figure "SBB Areale & Möglichkeiten ZEV"). However, it is not clear yet if the connection across train tracks is physically feasible and makes economically sense.
 
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/potential-zusammenschlüsse.png)
 
-We approach the assessment of the potential for "Zusammenschlüsse" with a qualitative model considering the aspects: "Energie", "Wirtschaftlichkeit", and "Realisierbarkeit". We divided our team into three subgroups working on the topics data, model, and visualization (see figure "Teamaufteilung").
+We approach the assessment of the potential for ZEV with a qualitative model considering the aspects: "Energie", "Wirtschaftlichkeit", and "Realisierbarkeit". We divided our team into three subgroups working on the topics data, model, and visualization (see figure "Teamaufteilung").
 
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/teamaufteilung.png)
 
