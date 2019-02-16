@@ -7,9 +7,9 @@ For a more detailed assessment and visualization of potential "Zussammenschlüss
 # General Potential Analysis
 PV-potential over all SBB-areas:
 
->>>> 153 GWh (LCOE<10 Rp/kWh) --> 0.3% of total swiss electricity consumtion <<<<
+**** 153 GWh (LCOE<10 Rp/kWh) --> 0.3% of total swiss electricity consumtion ****
 
->>>>  270 GWh (LCOE<15 Rp/kWh) --> 0.5% of total swiss electricity consumtion <<<<
+****  270 GWh (LCOE<15 Rp/kWh) --> 0.5% of total swiss electricity consumtion ****
 
 CO2 reduction potential over all SBB-areas:
 
