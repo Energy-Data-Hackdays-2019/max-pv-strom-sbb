@@ -1,2 +1,2 @@
 # max-pv-strom-sbb
-![alt text](https://github.com/magnetilo/max-pv-strom-sbb/blob/master/project-overview.pdf)
+![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/project-overview.pdf)
