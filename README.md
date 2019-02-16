@@ -10,6 +10,16 @@ CO2 reduction potential over all SBB-areas:
 
 
 # Assessment and Visualization of parcels and potential "Zusammenschlüsse"
-When you want to find "Zusammenschlüsse" you need to consider the geographic locations of the SBB-parcels, most importantly if two parcels are linked to each other through parcels that belong all to the same owner. In the case of SBB the ownership of train-track-parcels is especially interesting as they link different parcels over a large range (possibly over the whole country), which allows potentially for huge "Zusammenschlüsse" (see figure). However, it is not clear yet if the connection across train tracks is physically feasible and makes economically sense.
+When you want to find "Zusammenschlüsse" you need to consider the geographic locations of the SBB-parcels, most importantly if two parcels are linked to each other through parcels that belong all to the same owner. In the case of SBB the ownership of train-track-parcels is especially interesting as they link different parcels over a large range (possibly over the whole country), which allows potentially for huge "Zusammenschlüsse" (see figure "SBB Areale & Möglichkeiten Eigenverbrauch-Zusammenschlüsse"). However, it is not clear yet if the connection across train tracks is physically feasible and makes economically sense.
 
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/potential-zusammenschlüsse.png)
+
+We approach the assessment of the potential for "Zusammenschlüsse" with a qualitative model considering the aspects: "Energie", "Wirtschaftlichkeit", and "Realisierbarkeit". We divided our team into three subgroups working on the topics data, model, and visualization (see figure "Teamaufteilung").
+
+![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/teamaufteilung.png)
+
+The main task of the data team was the embedding of the SBB data into the swiss energy planning app, where several nasty problems arose. The model team developed a quantitative model for assessing the potential of each SBB parcel (or potentially any cluster of parcels, see figure "Modell").
+
+![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/modell.png)
+
+Finally, we visualized the potential assessment and all the information of interest for each parcel on a interactive map in the swiss energy planning app (see figure "Swiss Energy Planning").
