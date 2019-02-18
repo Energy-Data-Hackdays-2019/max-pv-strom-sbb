@@ -32,7 +32,9 @@ We approach the assessment of the potential for ZEV with a qualitative model con
 
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/teamaufteilung.png)
 
-The main task of the data team was the embedding of the SBB data into the swiss energy planning app, where several nasty problems arose. The model team developed a quantitative model for assessing the potential of each SBB parcel (or potentially any cluster of parcels, see figure "Modell").
+The main task of the data team was the embedding of the SBB data into the swiss energy planning app, where several nasty problems arose.
+
+The model team developed a qualitative model based on quantitative data for assessing the potential of each SBB parcel (or potentially any cluster of parcels, see figure "Modell").
 
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/modell.png)
 
