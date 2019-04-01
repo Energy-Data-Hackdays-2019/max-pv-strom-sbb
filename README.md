@@ -23,6 +23,9 @@ Figure: Total electricity generation potential from PV: 130 GWh (LCOE<10 Rp/kWh)
 Figure: Potential vs. PV LCOE for each parcel. With Gemeinde names where the parcel is located in. Parcels  on on top left corner (high potential, low LCOE) shall be looked into:
 ![alt text](https://raw.githubusercontent.com/magnetilo/max-pv-strom-sbb/master/potential-gestehungskosten.png)
 
+Data and code:
+https://github.com/magnetilo/max-pv-strom-sbb/blob/master/SBB%20ZEV%20-%20levelized%20cost%20of%20electricity.ipynb
+
 # Assessment and Visualization of parcels and potential "Zusammenschlüsse zum Eigenverbrauch (ZEV)"
 When you want to find ZEV you need to consider the geographic locations of the SBB-parcels, most importantly if two parcels are linked to each other through parcels that belong all to the same owner. In the case of SBB the ownership of train-track-parcels is especially interesting as they link different parcels over a large range (virtually over the whole country), which allows potentially for huge ZEV (see figure "SBB Areale & Möglichkeiten ZEV"). However, it is not clear yet if the connection across train tracks is physically feasible and makes economically sense.
 
